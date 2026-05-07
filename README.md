@@ -86,6 +86,13 @@
 </p>
 
 ###
+<h4 align="center">🖥️ Remote Support Tools</h4>
+<p align="center">
+  <a href="https://www.teamviewer.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/teamviewer/teamviewer-icon.svg" alt="TeamViewer" width="40" height="40"/></a>
+  <a href="https://www.deskin.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/deskin/deskin-icon.svg" alt="DeskIn" width="40" height="40"/></a>
+</p>
+
+###
 
 <h4 align="center">📚 Repository</h4>
 <p align="center">
