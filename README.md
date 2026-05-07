@@ -20,7 +20,7 @@
 ###
 
 <h2 align="center">🤝 Connect With Me</h2>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sehloho-tšiu" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -97,3 +97,4 @@
 <p>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
+
