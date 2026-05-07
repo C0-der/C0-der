@@ -20,81 +20,89 @@
 ###
 
 <h2 align="center">🤝 Connect With Me</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sehloho-tšiu" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/C0-der" target="_blank" rel="noopener noreferrer" title="GitHub Profile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sehloho-tšiu" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://github.com/C0-der" target="_blank" rel="noopener noreferrer" title="GitHub Profile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
 ###
 
 <h2 align="center">🛠️ Languages & Tools</h2>
-<p align="center">
-  A showcase of the technologies I work with — from programming languages to deployment platforms.
-</p>
+<p align="center">A showcase of the technologies I work with — from programming languages to deployment platforms.</p>
 
-<h4>👨‍💻 Programming Languages</h4>
-<p>
+<h4 align="center">👨‍💻 Programming Languages</h4>
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
-<h4>🎨 Frontend Development</h4>
-<p>
+###
+
+<h4 align="center">🎨 Frontend Development</h4>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 </p>
 
-<h4>⚙️ Backend Development</h4>
-<p>
+###
+
+<h4 align="center">⚙️ Backend Development</h4>
+<p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
 </p>
 
-<h4>🗄️ Databases</h4>
-<p>
+###
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
 </p>
 
-<h4>☁️ Backend as a Service</h4>
-<p>
+###
+
+<h4 align="center">☁️ Backend as a Service</h4>
+<p align="center">
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
 </p>
 
-<h4>🖥️ Software</h4>
-<p>
+<h4 align="center">🖥️ Software</h4>
+<p align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
 </p>
 
-<h4>🔐 Cybersecurity Tools</h4>
-<p>
+###
+
+<h4 align="center">🔐 Cybersecurity Tools</h4>
+<p align="center">
   <a href="https://www.kali.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/></a>
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/></a>
   <a href="https://nmap.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap" width="40" height="40"/></a>
 </p>
 
-<h4>📚 Repository</h4>
-<p>
+###
+
+<h4 align="center">📚 Repository</h4>
+<p align="center">
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
-<h4>🚀 Deployment</h4>
-<p>
+<h4 align="center">🚀 Deployment</h4>
+<p align="center">
   <a href="https://render.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="Render" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
 </p>
 
-<h4>🔧 Other</h4>
-<p>
+###
+
+<h4 align="center">🔧 Other</h4>
+<p align="center">
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
+##
