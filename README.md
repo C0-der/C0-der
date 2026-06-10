@@ -21,7 +21,6 @@ My motivation comes from this powerful quote:<br>
 
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sehloho-tšiu" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://github.com/C0-der" target="_blank" rel="noopener noreferrer" title="GitHub Profile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
