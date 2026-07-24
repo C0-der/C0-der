@@ -48,14 +48,6 @@ My motivation comes from this powerful quote:<br>
 </p>
 
 ###
-
-<h4 align="center">Backend Development</h4>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-</p>
-
-###
 <h4 align="center">Databases</h4>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
@@ -78,8 +70,6 @@ My motivation comes from this powerful quote:<br>
 <h4 align="center">🖥️ Remote Support Tools</h4>
 <p align="center">
   <a href="https://www.teamviewer.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/teamviewer/teamviewer-icon.svg" alt="TeamViewer" width="40" height="40"/></a>
-  <a href="https://www.deskin.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/deskin/deskin-icon.svg" alt="DeskIn" width="40" height="40"/></a>
-</p>
 
 ###
 
@@ -91,8 +81,5 @@ My motivation comes from this powerful quote:<br>
 <h4 align="center">Deployment</h4>
 <p align="center">
   <a href="https://render.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="Render" width="40" height="40"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
-</p>
-
 ###
 
